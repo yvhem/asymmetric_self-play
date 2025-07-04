@@ -1,0 +1,2 @@
+mujoco-py==2.0.2.13
+-e git+https://github.com/openai/robogym.git@9ff1111fd557b1a01911d7d8c9d59a453071c96e#egg=robogym
